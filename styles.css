@@ -1,0 +1,13 @@
+.name{
+    width: 20%;
+}
+button{
+    margin-left: 20px;
+    border-radius: 4px;
+    background-color: firebrick;
+    color: white;
+}
+h5{
+    margin-left: 40px;
+}
+
