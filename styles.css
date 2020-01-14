@@ -1,13 +1,25 @@
 .name{
-    width: 20%;
+    font-weight: bold;
+    font-size: 25px;
+    color: olive;
 }
 button{
     margin-left: 20px;
     border-radius: 4px;
-    background-color: firebrick;
+    background-color: olive;
     color: white;
+}
+button:hover{
+    border-color: red;
 }
 h5{
     margin-left: 40px;
+    color: olive;
 }
-
+img{
+    height: 30px;
+    width: 30px;
+}
+.nav-link{
+    color: olive;
+}
