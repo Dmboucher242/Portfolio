@@ -21,7 +21,7 @@ h5{
 
 
 .container{
-  background-image: url(https://www.nhm.ac.uk/content/dam/nhmwww/discover/spider-webs/dewy-covered-spider-web-full-width.jpg);
+  background-image: url(https://images.squarespace-cdn.com/content/v1/5db1b38d4efb877e1ddaaf80/1574711464387-6S3J7OHY6Y9MCY81ITXJ/ke17ZwdGBToddI8pDm48kHH9S2ID7_bpupQnTdrPcoF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RRB5rUELEv7EY2n0AZOrEupxpSyqbqKSgmzcCPWV5WMiQ/leafy-plant-on-white-wall.jpg?format=2500w);
   background-size: cover;
   background-position: center top;
 }
@@ -29,57 +29,39 @@ h5{
 .jumbotron{
     text-align: center;
     margin: 20px;
-    color: #EDC7B7;
-    background: white;
-    font-family: 'Spartan', sans-serif;
-    font-weight: bold;
+    color: darkslategrey;
+    background: none;
+    font-family: 'Inconsolata', monospace;
 }
 
 .btn{
     margin-right: 10px;
-    background-color: #EDC7B7;
+    background-color: #FFD07B;
     border: none;
-    color: #123C69 ;
+    color: darkslategrey ;
 }
 
 .btn:hover{
-    color: #123C69;
-    background-color: #9E768F;
+    color: #FFD07B;
+    background-color: darkslategrey;
 }
 
 button{
-    font-family: 'Spartan', sans-serif;
-}
-
-.signUp{
-    margin: 20px;
-}
-
-label{
-    color: #EDC7B7;
-    font-family: 'Spartan', sans-serif;
-}
-
-.btnSubmit{
-    color: #123C69 ;
-    background-color: #EDC7B7;
-    border: none;
-    font-family: 'Spartan', sans-serif;
-}
-
-.btnSubmit:hover{
-    background-color: #9E768F;
-    color: #123C69;
+    font-family: 'Inconsolata', monospace;
 }
 
 hr{
-    border-top: 3px solid #EDC7B7;
+    border-top: 3px solid #FFD07B;
 }
 
 p{
-    color: #EDC7B7;
-    font-family: 'Spartan', sans-serif;
+    color: darkslategrey;
+    font-family: 'Inconsolata', monospace;
     text-align: center;
+    font-size: 16px;
 }
 
-
+h1{
+    font-family: 'Inconsolata', monospace;
+    margin-bottom: 30px;
+}
