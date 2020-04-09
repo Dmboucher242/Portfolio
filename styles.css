@@ -1,8 +1,8 @@
-.name{
-    font-weight: bold;
-    font-size: 25px;
-    color: olive;
+.nav{
+    margin-left: 20%;
+    margin-top: 10px;
 }
+
 button{
     margin-left: 20px;
     border-radius: 4px;
@@ -11,15 +11,75 @@ button{
 }
 button:hover{
     border-color: red;
+    color: blue;
+    background-color: pink;
 }
 h5{
     margin-left: 40px;
     color: olive;
 }
-img{
-    height: 30px;
-    width: 30px;
+
+
+.container{
+  background-image: url(https://www.nhm.ac.uk/content/dam/nhmwww/discover/spider-webs/dewy-covered-spider-web-full-width.jpg);
+  background-size: cover;
+  background-position: center top;
 }
-.nav-link{
-    color: olive;
+
+.jumbotron{
+    text-align: center;
+    margin: 20px;
+    color: #EDC7B7;
+    background: white;
+    font-family: 'Spartan', sans-serif;
+    font-weight: bold;
 }
+
+.btn{
+    margin-right: 10px;
+    background-color: #EDC7B7;
+    border: none;
+    color: #123C69 ;
+}
+
+.btn:hover{
+    color: #123C69;
+    background-color: #9E768F;
+}
+
+button{
+    font-family: 'Spartan', sans-serif;
+}
+
+.signUp{
+    margin: 20px;
+}
+
+label{
+    color: #EDC7B7;
+    font-family: 'Spartan', sans-serif;
+}
+
+.btnSubmit{
+    color: #123C69 ;
+    background-color: #EDC7B7;
+    border: none;
+    font-family: 'Spartan', sans-serif;
+}
+
+.btnSubmit:hover{
+    background-color: #9E768F;
+    color: #123C69;
+}
+
+hr{
+    border-top: 3px solid #EDC7B7;
+}
+
+p{
+    color: #EDC7B7;
+    font-family: 'Spartan', sans-serif;
+    text-align: center;
+}
+
+
