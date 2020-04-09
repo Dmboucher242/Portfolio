@@ -1,5 +1,6 @@
 .nav{
-    margin-left: 20%;
+    margin-left: 19%;
+    margin-right: 15%;
     margin-top: 10px;
 }
 
@@ -26,6 +27,12 @@ h5{
   background-position: center top;
 }
 
+.contact{
+    background-image: url(https://d39l2hkdp2esp1.cloudfront.net/img/photo/158617/158617_00_2x.jpg);
+    background-size: cover;
+    background-position: center top;
+}
+
 .jumbotron{
     text-align: center;
     margin: 20px;
@@ -38,7 +45,8 @@ h5{
     margin-right: 10px;
     background-color: #FFD07B;
     border: none;
-    color: darkslategrey ;
+    color: darkslategrey;
+    font-family: 'Inconsolata', monospace;
 }
 
 .btn:hover{
@@ -64,4 +72,15 @@ p{
 h1{
     font-family: 'Inconsolata', monospace;
     margin-bottom: 30px;
+}
+
+.contact-points{
+    background-color: #FFD07B;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 90px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 12px;
 }
