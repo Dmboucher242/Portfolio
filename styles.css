@@ -73,6 +73,11 @@ h1{
     color: darkslategrey;
 }
 
+h5{
+    font-family: 'Inconsolata', monospace;
+    color: darkslategrey;
+}
+
 a{
     font-family: 'Inconsolata', monospace;
     color: darkslategrey;
@@ -80,9 +85,21 @@ a{
 }
 
 img{
-    height: 450px;
-    width: 350px;
-    margin-left: -120px;
-    border-radius: 12px;
-    margin-top: -30px;
+    height: 430px;
+    width: 330px;
+    margin-right: -70px;
+    border-radius: 50%;
+    margin-top: 20px;
+    float: right;
+}
+
+.contact-points{
+    margin-left: -20px;
+    margin-top: 50px;
+
+}
+
+h6{
+    color: darkslategrey;
+    margin-left: 20px;
 }
