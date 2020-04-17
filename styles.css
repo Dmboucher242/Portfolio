@@ -84,11 +84,11 @@ a{
 
 }
 
-img{
+.profile-pic{
     height: 430px;
     width: 330px;
     margin-right: -70px;
-    border-radius: 50%;
+    border-radius: 12px;
     margin-top: 20px;
     float: right;
 }
@@ -102,4 +102,10 @@ img{
 h6{
     color: darkslategrey;
     margin-left: 20px;
+}
+
+.card{
+    float: left;
+    margin-right: 80px;
+    margin-top: 20px;
 }
