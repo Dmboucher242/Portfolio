@@ -11,13 +11,9 @@ button{
     color: white;
 }
 button:hover{
-    border-color: red;
-    color: blue;
-    background-color: pink;
-}
-h5{
-    margin-left: 40px;
-    color: olive;
+    border-color: darkslategrey;
+    color: darkslategrey;
+    background-color: #FFD07B;
 }
 
 
@@ -81,4 +77,12 @@ a{
     font-family: 'Inconsolata', monospace;
     color: darkslategrey;
 
+}
+
+img{
+    height: 450px;
+    width: 350px;
+    margin-left: -120px;
+    border-radius: 12px;
+    margin-top: -30px;
 }
