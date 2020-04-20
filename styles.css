@@ -92,6 +92,7 @@ a{
     border-radius: 12px;
     margin-top: 20px;
     float: right;
+    box-shadow: 0 4px 8px 0 darkslategrey, 0 6px 20px 0 darkslategrey;
 }
 
 .contact-points{
