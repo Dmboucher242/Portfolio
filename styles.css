@@ -43,6 +43,7 @@ button:hover{
     border: none;
     color: darkslategrey;
     font-family: 'Inconsolata', monospace;
+    box-shadow: 0 4px 8px 0 darkslategrey, 0 6px 20px 0 darkslategrey;
 }
 
 .btn:hover{
